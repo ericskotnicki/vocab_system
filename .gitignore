@@ -1,0 +1,14 @@
+.DS_store
+*.pyc
+__pycache__/
+backup/
+env/
+.env
+convert_to_csv.py
+duplicates_removed.csv
+invalid_vocab_words.csv
+LaunchAgent.txt
+summary.txt
+vocab_words.csv
+vocab_words.txt
+vocab.db
